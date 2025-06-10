@@ -7,5 +7,5 @@ teamoilspilldatapull is a notebook that will pull data based on our filters from
 
 teamoilspillcentroids.csv is that full data pull.
 
-To do: add hotspot predicting mechanism (ML??)
-Upload notebook for DBSCAN clustering
+Main branch is WIP
+Final branch is final

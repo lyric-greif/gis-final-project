@@ -9,4 +9,4 @@ teamoilspillcentroids.csv is that full data pull.
 
 Main branch is WIP
 
-Final branch is final
+Visit final branch for final project material
